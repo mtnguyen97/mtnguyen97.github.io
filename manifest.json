@@ -1,12 +1,12 @@
 {
-    "name": "myapp",
-    "short_name": "myapp",
+    "name": "Casting",
+    "short_name": "casting",
     "start_url": ".",
-    "display": "standalone",
+    "display": "fullscreen",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "description": "Casting quẻ.",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
