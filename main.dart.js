@@ -47081,7 +47081,7 @@ A.WM.prototype={
 $1(a){var s,r,q,p,o,n=this.a
 if(n.f)return B.tS
 s=n.e
-if(s.length===0)return A.TO('Press "Refresh" button.',A.bj(a).ab.db)
+if(s.length===0)return A.TO("\u1ea4n n\xfat gieo qu\u1ebb.",A.bj(a).ab.db)
 if(B.c.v(s,-1))return B.GG
 s=n.e
 r=A.X(s).j("bh<1>")
@@ -51510,7 +51510,7 @@ B.FO=new A.m(!0,B.i,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.Eh=new A.m(!0,B.i,null,".SF UI Text",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteCupertino labelSmall",null,null,null)
 B.GE=new A.cM(B.DI,B.Fn,B.FA,B.Ge,B.EX,B.E4,B.Fu,B.F_,B.F7,B.FX,B.Ee,B.Gj,B.ES,B.FO,B.Eh)
 B.GF=new A.Bz(1,"longestLine")
-B.GG=new A.n7("There is some errors!",null,null,null)
+B.GG=new A.n7("C\xf3 l\u1ed7i x\u1ea3y ra, h\xe3y th\u1eed l\u1ea1i.",null,null,null)
 B.J2=new A.Ue(0,"system")
 B.GH=new A.rQ(null)
 B.de=new A.rR(0,"clamp")
