@@ -47062,7 +47062,7 @@ M(a,b){var s,r,q=this,p=null
 q.a.toString
 s=A.a0B("Casting",p)
 r=A.J7(new A.h0(new A.WL(q),p),p,p)
-return new A.rc(new A.or(s,new A.EZ(p,p,1/0,56),p),r,A.a3r(B.wY,!1,q.f?p:q.gL0(),"Refresh"),p)}}
+return new A.rc(new A.or(s,new A.EZ(p,p,1/0,56),p),r,A.a3r(B.wY,!1,q.f?p:q.gL0(),"Gieo qu\u1ebb"),p)}}
 A.WM.prototype={
 $0(){return B.e5},
 $S:283}
